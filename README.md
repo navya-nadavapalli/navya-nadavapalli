@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**navya-nadavapalli/navya-nadavapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Navya Nadavapalli 👋
 
-Here are some ideas to get you started:
+### Python Developer | Full Stack Development | Data Science & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science postgraduate passionate about building practical software applications and data-driven solutions.
+
+- 🎓 M.Sc. Computer Science — Osmania University
+- 💻 Interested in Python, Django, Flask, REST APIs, SQL, and React.js
+- 📊 Exploring Data Analytics and Machine Learning through hands-on projects
+- 🚀 Building projects to strengthen my development and problem-solving skills
+- 📍 Hyderabad, India
+- 🤝 Open to entry-level IT opportunities
+
+### 🛠️ Technical Skills
+
+Python | Django | Flask | SQL | HTML | CSS | JavaScript | React.js | Pandas | NumPy | Scikit-learn | Git | GitHub
+
+### 📂 Featured Projects
+
+More project details coming soon!
+
+### 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/nadavapallinavya/
+- GitHub: https://github.com/navya-nadavapalli
